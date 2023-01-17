@@ -12,7 +12,7 @@ dataSources:
     source:
       address: '0x3949b9b7506971CF87B8Cf21137BCB85939Fa24D'
       abi: Factory
-      startBlock: 447101
+      startBlock: 447100
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -41,7 +41,7 @@ dataSources:
     source:
       address: '0x569c5BcB406efC68Ea22C028058554488bfE50dd'
       abi: NonfungiblePositionManager
-      startBlock: 447126
+      startBlock: 447125
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
